@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lgf.portafolio.PortafolioApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 31.409 s - in com.lgf.portafolio.PortafolioApplicationTests
